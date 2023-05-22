@@ -1,0 +1,54 @@
+form {
+    min-width:300px;
+    max-width:400px;
+    padding:20px;
+    margin:0 auto;
+    background:#ffffff59; 
+    -webkit-box-shadow: 3px 3px 23px -9px rgba(0, 0, 0, 0.46);
+    -moz-box-shadow: 3px 3px 23px -9px rgba(0, 0, 0, 0.46);
+    box-shadow: 3px 3px 23px -9px rgba(0,0,0,0.46);
+    border-radius: 8px;
+  }
+  
+  form input {
+    border:1px solid #eee;
+    border-radius:0 !important;
+    padding:5px 8px;
+    color:#444;
+    background: #ffffff1e;
+  }
+  
+  form button {
+    color:#555;
+    background:#ffffffad;
+    border:1px solid #fff !important;
+    margin-top:20px;
+    border-radius:0px Important;
+  }
+  
+  form button:hover {
+    background:#fff !important;
+  }
+  
+  .pull-right {
+    float:right;
+  }
+  body {
+    background: #70e1f5;
+    background: -webkit-linear-gradient(to right, #ffd194, #70e1f5);  
+    background: linear-gradient(to right, #ffd194, #70e1f5);
+  }
+
+.show_box{
+    min-width:300px;
+    max-width:400px;
+    padding:20px;
+    margin:0 auto;
+    background:#ffffff59; 
+    -webkit-box-shadow: 3px 3px 23px -9px rgba(0, 0, 0, 0.46);
+    -moz-box-shadow: 3px 3px 23px -9px rgba(0, 0, 0, 0.46);
+    box-shadow: 3px 3px 23px -9px rgba(0,0,0,0.46);
+    border-radius: 8px;
+    font-size: 36px;
+    font-weight: 700;
+}
